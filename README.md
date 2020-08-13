@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 
+
+My name is Sam Creamer and I'm a software developer and maker from Montreal, Canada. I'm currently working for <a href="https://squarepoint-capital.com/">Squarepoint Capital</a>.
+          I love to create and build side projects, which you can see at <a href="https://samcreamer.github.io"></a>. Outside of computers, my hobbies include sports and aviation. You can find me on <a href="https://twitter.com/SamCreamer">Twitter</a>.
+
+- 🔭 I’m currently working on:
+  
 
 <!--
 **SamCreamer/samcreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

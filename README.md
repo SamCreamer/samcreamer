@@ -2,8 +2,6 @@
 
 My name is Sam Creamer and I'm a software developer from Montreal, Canada.
           I love to create and build side projects, which you can see at <a href="https://samcreamer.github.io">this webpage</a>. Outside of computers, my hobbies include sports and aviation.
-
-- 🔭 I’m currently working on: <a href="https://airlinesimulator.io">Airline Simulator</a>
  
 
 <!--
